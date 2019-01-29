@@ -14,7 +14,7 @@ Fundamental operating system topics
 
 – Hardware Virtualization
 
-– OS security
+– OS security.
 
 ## Xv6 Operating System.                                                                                                               
 •	Working on open source xv6 operating system designed and developed by MIT.
